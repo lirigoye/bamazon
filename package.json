@@ -1,0 +1,15 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "* We are going to print playlists to the Git Bash console based upon the genre or artist.",
+  "main": "playlistDBConnection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
+}
