@@ -12,3 +12,5 @@ product_name
 department_name
 price 
 stock_quantity 
+
+https://github.com/lirigoye/bamazon/issues/1#issue-365714813
