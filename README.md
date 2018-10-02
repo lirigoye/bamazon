@@ -15,7 +15,7 @@ Instructions:
 
 4. The app should then prompt users with two messages: The first should ask them the ID of the product they would like to buy. The second message should ask how many units of the product they would like to buy.
 
-*Prompt the user with two messages
+*Prompt the user with two messages!
 ![pic2](https://user-images.githubusercontent.com/39958690/46326289-0ef80100-c5ca-11e8-9dc0-fd1818442b5c.JPG)
 
 5. Once the customer has placed the order, your application should check if your store has enough of the product to meet the customer's request. If not, the app should log a phrase like Insufficient quantity!, and then prevent the order from going through.
