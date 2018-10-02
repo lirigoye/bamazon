@@ -21,7 +21,7 @@ Instructions:
 5. Once the customer has placed the order, your application should check if your store has enough of the product to meet the customer's request. If not, the app should log a phrase like Insufficient quantity!, and then prevent the order from going through.
 
 *Insufficient quantity message!
-![pic3](https://user-images.githubusercontent.com/39958690/46326383-6eeea780-c5ca-11e8-9ab6-4f8cfb196dbb.JPG)
+![pic3](https://user-images.githubusercontent.com/39958690/46326769-64cda880-c5cc-11e8-8512-0aa0c1a416e0.JPG)
 
 *Doesn't update the SQL database!
 ![pic4](https://user-images.githubusercontent.com/39958690/46326442-ba08ba80-c5ca-11e8-925c-1cbff6e0d24d.JPG)
