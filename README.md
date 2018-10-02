@@ -13,4 +13,5 @@ department_name
 price 
 stock_quantity 
 
-https://github.com/lirigoye/bamazon/issues/1#issue-365714813
+![pic1](https://user-images.githubusercontent.com/39958690/46325987-cbe95e00-c5c8-11e8-81a7-abd74f5bae7b.JPG)
+
