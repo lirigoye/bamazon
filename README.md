@@ -11,7 +11,7 @@ Instructions:
 3. Then create a Node application called bamazonCustomer.js.
 
 *Run node bamazonCustomer.js on command line to display the products table!
-![pic1](https://user-images.githubusercontent.com/39958690/46325987-cbe95e00-c5c8-11e8-81a7-abd74f5bae7b.JPG)
+![pic1](https://user-images.githubusercontent.com/39958690/46326726-32bc4680-c5cc-11e8-8a99-eea3af7bae41.JPG)
 
 4. The app should then prompt users with two messages: The first should ask them the ID of the product they would like to buy. The second message should ask how many units of the product they would like to buy.
 
