@@ -23,6 +23,10 @@ Instructions:
 *Insufficient quantity message!
 ![pic3](https://user-images.githubusercontent.com/39958690/46326383-6eeea780-c5ca-11e8-9ab6-4f8cfb196dbb.JPG)
 
+*Doesn't update the SQL database!
+![pic4](https://user-images.githubusercontent.com/39958690/46326442-ba08ba80-c5ca-11e8-925c-1cbff6e0d24d.JPG)
+
+
 
 
 
